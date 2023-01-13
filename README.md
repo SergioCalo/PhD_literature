@@ -45,8 +45,8 @@ Use this space to write new references (link to the paper, name, etc.):
 
 *Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler*
 
-2. **Planning to Explore via Self-Supervised World Models, 2022** [Link](https://arxiv.org/abs/2005.05960)
+2. **Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks, 2021** [Link](https://arxiv.org/abs/2108.01176)
 
-    *Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak* 
+    *Zachary Ravichandran, Lisa Peng, Nathan Hughes, J. Daniel Griffith, Luca Carlone* 
 
 ## [Various](#content)
