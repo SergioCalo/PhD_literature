@@ -1,5 +1,6 @@
 # Literature:
-Use this space to write new references:
+Use this space to write new references (link to the paper, name, etc.):
+
 
 
 ## [Content](#content)
