@@ -40,6 +40,18 @@ Use this space to write new references (link to the paper, name, etc.):
 
 ## [Hierarchical Reinforcement Learning](#content)
 
+1. **Between MDPs and Semi-MDPs: Learning, Planning, and Representing Knowledge at Multiple Temporal Scales, 1999** [Link](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1212&context=cs_faculty_pubs)
+
+    *Richard Sutton, Doina Precup, Satinder Singh* 
+    
+2. **Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition, 2000** [Link](https://arxiv.org/pdf/cs/9905014.pdf)
+
+    *Tom Dietterich* 
+    
+3. **The Promise of Hierarchical Reinforcement Learning, 2019** [Link](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
+
+    *Yannis Flet-Berliac*
+
 ## [GNN+RL](#content)
 1. **NerveNet: Learning Structured Policy with Graph Neural Networks , 2018**[Link](https://openreview.net/forum?id=S1sqHMZCb)
 
