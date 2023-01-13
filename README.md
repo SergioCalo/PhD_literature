@@ -30,10 +30,23 @@ Use this space to write new references (link to the paper, name, etc.):
 1. **Planning to Explore via Self-Supervised World Models, 2022** [Link](https://arxiv.org/abs/2005.05960)
 
     *Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak* 
+    
+2. **Reinforcement Learning with Prototypical Representations, 2021** [Link](https://arxiv.org/abs/2102.11271)
+
+    *Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto* 
+    
+    Notes: I have been able to replicate the results.
+
 
 ## [Hierarchical Reinforcement Learning](#content)
 
 ## [GNN+RL](#content)
+1. **NerveNet: Learning Structured Policy with Graph Neural Networks , 2018**[Link](https://openreview.net/forum?id=S1sqHMZCb)
 
+*Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler*
+
+2. **Planning to Explore via Self-Supervised World Models, 2022** [Link](https://arxiv.org/abs/2005.05960)
+
+    *Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak* 
 
 ## [Various](#content)
