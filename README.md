@@ -51,6 +51,12 @@ Use this space to write new references (link to the paper, name, etc.):
 3. **The Promise of Hierarchical Reinforcement Learning, 2019** [Link](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 
     *Yannis Flet-Berliac*
+    
+4. **The Option-Critic Architecture, 2016** [Link](https://arxiv.org/abs/1609.05140)
+
+    *Pierre-Luc Bacon, Jean Harb, Doina Precup*
+    
+    Notes: I have been able to replicate the results using the pytorch implementation available here:  [Link](https://github.com/lweitkamp/option-critic-pytorch). I've implemented in the pacman environment as well. The results for Pacman are not good yet.
 
 ## [GNN+RL](#content)
 1. **NerveNet: Learning Structured Policy with Graph Neural Networks , 2018**[Link](https://openreview.net/forum?id=S1sqHMZCb)
