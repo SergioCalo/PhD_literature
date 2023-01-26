@@ -59,6 +59,18 @@ Use this space to write new references (link to the paper, name, etc.):
     
     Notes: PhD Thesis
     
+    
+      
+ 7. ** Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740)
+
+    *Marlos C. Machado, Andre Barreto, Doina Precup, Michael Bowling*
+   
+
+    
+ 8. **Discrete State-Action Abstraction via the Successor Representation, 2023** [Link](https://arxiv.org/abs/2206.03467)
+
+    *Amnon Attali, Pedro Cisneros-Velarde, Marco Morales, Nancy M. Amato*
+    
 
 
 
