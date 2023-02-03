@@ -8,6 +8,7 @@ Use this space to write new references (link to the paper, name, etc.):
 <table>
 <tr><td colspan="2"><a href="#cognitive-science">1. Cognitive Science</a></td></tr> 
 <tr><td colspan="2"><a href="#state-representation-and-abstraction">2. State Representation and Abstraction</a></td></tr>
+<tr><td colspan="2"><a href="#successor-representation"> 2.1 Successor Representation</a></td></tr>
 <tr><td colspan="2"><a href="#hierarchical-reinforcement-learning">3. Hierarchical Reinforcement Learning</a></td></tr>
 <tr><td colspan="2"><a href="#gnnrl">4. GNN+RL</a></td></tr>
 <tr><td colspan="2"><a href="#various">5. Various</a></td></tr>
@@ -59,7 +60,7 @@ Use this space to write new references (link to the paper, name, etc.):
     
     Notes: PhD Thesis
     
-    
+    ### [Successor Representation](#content)
       
  7. ** Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740)
 
@@ -71,6 +72,13 @@ Use this space to write new references (link to the paper, name, etc.):
 
     *Amnon Attali, Pedro Cisneros-Velarde, Marco Morales, Nancy M. Amato*
     
+9.  **Deep Laplacian-based Options for Temporally-Extended Exploration, 2023** [Link](https://arxiv.org/pdf/2301.11181.pdf)
+
+    *Martin Klissarov, Marlos C. Machado*
+    
+10.  **Successor Options: An Option Discovery Framework for Reinforcement Learning, 2019** [Link](https://arxiv.org/pdf/1905.05731.pdf)
+
+    *Manan Tomar, Rahul Ramesh and Balaraman Ravindran*
 
 
 
