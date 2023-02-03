@@ -60,25 +60,31 @@ Use this space to write new references (link to the paper, name, etc.):
     
     Notes: PhD Thesis
     
+7. **Learning State and Action Abstractions for Effective and Efficient Planning, 2020** [Link](https://dspace.mit.edu/handle/1721.1/145150)
+
+    *Rohan Chitnis* 
+    
+    Notes: PhD Thesis
+    
     ### [Successor Representation](#content)
       
- 7. ** Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740)
+ 8. ** Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740)
 
     *Marlos C. Machado, Andre Barreto, Doina Precup, Michael Bowling*
    
 
     
- 8. **Discrete State-Action Abstraction via the Successor Representation, 2023** [Link](https://arxiv.org/abs/2206.03467)
+ 9. **Discrete State-Action Abstraction via the Successor Representation, 2023** [Link](https://arxiv.org/abs/2206.03467)
 
     *Amnon Attali, Pedro Cisneros-Velarde, Marco Morales, Nancy M. Amato*
     
-9.  **Deep Laplacian-based Options for Temporally-Extended Exploration, 2023** [Link](https://arxiv.org/pdf/2301.11181.pdf)
+10.  **Deep Laplacian-based Options for Temporally-Extended Exploration, 2023** [Link](https://arxiv.org/pdf/2301.11181.pdf)
 
     *Martin Klissarov, Marlos C. Machado*
     
-10.  **Successor Options: An Option Discovery Framework for Reinforcement Learning, 2019** [Link](https://arxiv.org/pdf/1905.05731.pdf)
+11.  **Successor Options: An Option Discovery Framework for Reinforcement Learning, 2019** [Link](https://arxiv.org/pdf/1905.05731.pdf)
 
-    *Manan Tomar, Rahul Ramesh and Balaraman Ravindran*
+*Manan Tomar, Rahul Ramesh, Balaraman Ravindran*
 
 
 
