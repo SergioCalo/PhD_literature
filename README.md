@@ -1,8 +1,8 @@
 # Literature:
-Use this space to write new references (link to the paper, name, etc.):
 
 
 
+** Denotes highly relevant paper
 ## [Content](#content)
 
 <table>
@@ -64,27 +64,30 @@ Use this space to write new references (link to the paper, name, etc.):
 
     *Rohan Chitnis* 
     
-    Notes: PhD Thesis
+8. **Learning Markov State Abstractions for Deep Reinforcement Learning, 2021** [Link](https://arxiv.org/abs/2106.04379) **
+
+    *Cameron Allen, Neev Parikh, Omer Gottesman, George Konidaris* 
+    
+
+    
     
     ### [Successor Representation](#content)
       
- 8. ** Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740)
+ 8. **Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740) **
 
     *Marlos C. Machado, Andre Barreto, Doina Precup, Michael Bowling*
-   
-
     
  9. **Discrete State-Action Abstraction via the Successor Representation, 2023** [Link](https://arxiv.org/abs/2206.03467)
 
     *Amnon Attali, Pedro Cisneros-Velarde, Marco Morales, Nancy M. Amato*
     
-10.  **Deep Laplacian-based Options for Temporally-Extended Exploration, 2023** [Link](https://arxiv.org/pdf/2301.11181.pdf)
+10. **Deep Laplacian-based Options for Temporally-Extended Exploration, 2023** [Link](https://arxiv.org/pdf/2301.11181.pdf)
 
     *Martin Klissarov, Marlos C. Machado*
     
-11.  **Successor Options: An Option Discovery Framework for Reinforcement Learning, 2019** [Link](https://arxiv.org/pdf/1905.05731.pdf)
+11. **Successor Options: An Option Discovery Framework for Reinforcement Learning, 2019** [Link](https://arxiv.org/pdf/1905.05731.pdf)
 
-*Manan Tomar, Rahul Ramesh, Balaraman Ravindran*
+    *Manan Tomar, Rahul Ramesh, Balaraman Ravindran*
 
 
 
