@@ -68,8 +68,14 @@
 8. **State Abstractions for Lifelong Reinforcement Learning, 2018** [Link](https://arxiv.org/abs/2106.04379) **
 
     *David Abel, Dilip Arumugam, Lucas Lehnert, Michael L. Littman* 
-    
 
+9. **DeepMDP: Learning Continuous Latent Space Models for Representation Learning, 2019** [Link](https://arxiv.org/pdf/1906.02736.pdf) 
+
+    *Carles Gelada, Saurabh Kumar, Jacob Buckman, Ofir Nachum, Marc G. Bellemare* 
+    
+10. **Learning Invariant Representations for Reinforcement Learning without Reconstruction, 2019** [Link](https://arxiv.org/abs/2006.10742) 
+
+    *Amy Zhang, Rowan McAllister, Roberto Calandra, Yarin Gal, Sergey Levine* 
     
     
 ### [Temporal and state abstraction](#content)
