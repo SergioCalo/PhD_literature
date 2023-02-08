@@ -214,7 +214,7 @@
 </details>
     
     
-6. **Hierarchical reinforcement learning for efficient exploration and transfer, 2020** [Link](https://arxiv.org/pdf/2011.06335.pdf)
+6. **Hierarchical reinforcement learning for efficient exploration and transfer, 2020** [Link](https://arxiv.org/pdf/2011.06335.pdf) **
 
     *Lorenzo Steccanella, Simone Totaro, Damien Allonsius, Anders Jonsson*
     
@@ -224,6 +224,18 @@
     <a> In this work, an invariant state space that is common to a range of tasks is compressed into a partition. It's assumed that the agent has access to the partition. </a>
   </ol>
 </details>
+
+7. **Near-Optimal Representation Learning for Hierarchical Reinforcement Learning, 2019** [Link](https://arxiv.org/abs/1810.01257) **
+
+    *Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine*
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a>  </a>
+  </ol>
+</details>
+
 
 ### [Symbolic Representation and planning](#content)
 
