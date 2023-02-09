@@ -232,7 +232,17 @@
 <details>
   <summary> Comments </summary>
   <ol>
-    <a>  </a>
+    <a> Hierarchical framework: 
+       1. $\pi_{hi}$ decides a goal state space $g$. 
+       2. Knowing $g$, we obtain the low level policy by function $\Psi$, which depends on a representation function $f$. 3. We repeat this every $c$ steps.
+     They study the sub-obtimality bounds of this approach under a given representation. They propose a representation learning objective to learn this representation. 
+       
+       Remarks: I think it is a nice paper, very related to my interests and research ideas. I don't like the bounds they achive, being a bit unclear to me the use of $\phi$
+       
+       
+     Code at https://github.com/tensorflow/models/tree/master/research/efficient-hrl (Not updated)
+     </a>
+     
   </ol>
 </details>
 
