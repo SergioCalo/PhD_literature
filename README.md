@@ -13,6 +13,7 @@
 <tr><td colspan="2"><a href="#hierarchical-reinforcement-learning">3. Hierarchical Reinforcement Learning</a></td></tr>
 <tr><td colspan="2"><a href="#gnnrl">4. GNN+RL</a></td></tr>
 <tr><td colspan="2"><a href="#various">5. Various</a></td></tr>
+<tr><td colspan="2"><a href="#read-later">6. Read later</a></td></tr>
 
 </table>
 
@@ -391,3 +392,25 @@
     
 
 ## [Various](#content)
+
+
+## [Read later](#content)
+
+**Abstract Value Iteration for Hierarchical Reinforcement Learning**
+
+**On the Geometry of Reinforcement Learning in Continuous State and Action Spaces**
+
+**Option Transfer and SMDP Abstraction with Successor Features**
+
+**Learning Causal State Representations of Partially Observable Environments**
+
+**Efficient Reinforcement Learning in Block MDPs: A Model-free Representation Learning Approach**
+
+**Learning Invariant Representations for Reinforcement Learning without Reconstruction**
+
+**Towards a Unified Theory of State Abstraction for MDPs**
+
+**CONTRASTIVE LEARNING OF STRUCTURED WORLD MODELS**
+
+**Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots**
+
