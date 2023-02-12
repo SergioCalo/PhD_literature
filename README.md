@@ -396,6 +396,10 @@
 
 ## [Read later](#content)
 
+**Regret bounds for learning state representations in reinforcement learning.**
+
+**Automatic construction of temporally extended actions for MDPs using bisimulation metrics**
+
 **Abstract Value Iteration for Hierarchical Reinforcement Learning**
 
 **On the Geometry of Reinforcement Learning in Continuous State and Action Spaces**
