@@ -396,6 +396,9 @@
 
 ## [Read later](#content)
 
+Provably efficient RL with rich observations via latent state decoding + Kinematic state abstraction and provably efficient rich-observation reinforcement learning
+
+
 **Regret bounds for learning state representations in reinforcement learning.**
 
 **Automatic construction of temporally extended actions for MDPs using bisimulation metrics**
