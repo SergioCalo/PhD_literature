@@ -304,7 +304,16 @@
 <details>
   <summary> Comments </summary>
   <ol>
-    <a> No comments available yet </a>
+    <p> Related to other work from Dietterich: State Abstraction in MAXQ Hierarchical Reinforcement Learning. The author proposes 5 conditions for Safe State Abstraction (ie. under which a specific RL algorithm operating in the MAXQ framework is guaranteed to discovery a globally optimal policy). Framework: each state represented by a vector of variables. Abstraction in this case means how to discard useless variables without any loss.   </p>
+    <p> Condition 1: Subtask Irrelevance. Let $M_i$ be a subtask of MDP $M$. A set of state variables $Y$ is irrelevant to subtask $i$ if the state variables of $M$ can be partitioned into two sets $X$ and $Y$ such that for any stationary abstract hierarchical policy $\pi$ executed by the descendants of $M_i$, the following two properties hold: (a) the state transition probability distribution $P^\pi\left(s^{\prime}, N \mid s, j\right)$ for each child action $j$ of $M_i$ can be factored into the product of two distributions:
+$$P^\pi\left(x^{\prime}, y^{\prime}, N \mid x, y, j\right)=P^\pi\left(x^{\prime}, N \mid x, j\right) \cdot P^\pi\left(y^{\prime} \mid x, y, j\right)$$
+where $x$ and $x^{\prime}$ give values for the variables in $X$, and $y$ and $y^{\prime}$ give values for the variables in $Y$; and (b) for any pair of states $s_1=\left(x, y_1\right)$ and $s_2=\left(x, y_2\right)$ and any child action $j, V^\pi\left(j, s_1\right)=V^\pi\left(j, s_2\right)$. </p>
+     <p>Condition 2: Leaf Irrelevance. A set of state variables Y is irrelevant for a primitive action a if for any pair of states s1 and s2 that differ only in their values for the variables in Y, the expected reward is the same. </p>
+     <p>Condition 3: Result Distribution Irrelevance (Undiscounted case.) A set of state variables Y is irrelevant for the result distribution of action if, for all abstract policies pi executed by M j and its descendants in the MAXQ hierarchy, the following holds: for all pairs of states s1 and s2 that differ only in their values for the state variables in Y, the probability of finding s given policy pi is equal for s1 and s2. Note that this is only true in the undiscounted settingwith discounting, the result distributions are not the same because the number of
+steps N required to reach s might depend on the starting state. Hence this form of state abstraction is rarely useful for cumulative discounted
+reward.</p>
+     <p>Condition 4: Termination. Every child task $M_{j}$ whose termination implies the termination of the main task, M, can be abstracted into terminal state of M. </p>
+     <p>Condition 5: Shielding. Basically means you don't need to represent in s subtasks that are inaccessible from s</p>
   </ol>
 </details>    
 
