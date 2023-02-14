@@ -157,6 +157,24 @@
   </ol>
 </details>
 
+11. **Reinforcement Learning with Soft State Aggregation, 1994** [Link](https://proceedings.neurips.cc/paper/1994/file/287e03db1d99e0ec2edb90d079e142f3-Paper.pdf) 
+
+    *Satinder Singh, Tommi Jaakkola, Michael Jordan* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> 
+The FA maps the state space S into M > 0 aggregates or clusters from cluster space X. Typically, M < < S. We allow soft clustering, where each state s belongs to cluster x with
+probability P(xls), called the clustering probabilities. This allows each state s to
+belong to several clusters </a>
+  </ol>
+</details>
+
+
+
+
+
 ### [Temporal and state abstraction](#content)
       
  1. **Temporal Abstraction in Reinforcement Learning with the Successor Representation, 2022** [Link](https://arxiv.org/abs/2110.05740) **
