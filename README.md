@@ -380,6 +380,20 @@ reward.</p>
     <a> No comments available yet </a>
   </ol>
 </details>    
+
+7. **The Option Keyboard: Combining Skills in Reinforcement Learning, 2021** [Link](https://arxiv.org/pdf/2009.03855.pdf)
+
+    *André Barreto, Diana Borsa, Shaobo Hou, Gheorghe Comanici, Eser Aygün, Philippe Hamel, Daniel Toyama, Jonathan Hunt, Shibl Mourad, David Silver, Doina Precup*
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <p> They propose a framework for combining skills using the formalism of options. They also show how to approximate options whose cumulants are
+linear combinations of the cumulants of known options. </p>
+    <p> Problem: understand the concept of cumulants and how they use them <p>
+  </ol>
+</details> 
+    
     
 
 ## [GNN+RL](#content)
