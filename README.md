@@ -462,3 +462,5 @@ Provably efficient RL with rich observations via latent state decoding + Kinemat
 
 **Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots**
 
+**Notes on State Abstractions, Nan Jiang**
+
