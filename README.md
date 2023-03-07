@@ -165,11 +165,38 @@
   <summary> Comments </summary>
   <ol>
     <a> 
-The FA maps the state space S into M > 0 aggregates or clusters from cluster space X. Typically, M < < S. We allow soft clustering, where each state s belongs to cluster x with
+The FA maps the state spac S into M > 0 aggregates or clusters from cluster space X. Typically, M < < S. We allow soft clustering, where each state s belongs to cluster x with
 probability P(xls), called the clustering probabilities. This allows each state s to
 belong to several clusters </a>
   </ol>
 </details>
+
+12. **Novelty Search in representational space for sample efficient exploration, 2020** [Link](https://www.semanticscholar.org/paper/Novelty-Search-in-representational-space-for-sample-Tao-Fran%C3%A7ois-Lavet/d4d86f4a632d899ba5f511c1d0e7a7fbd44288c8 ) 
+
+    *Ruo YuTao1,2,*, Vincent Franc¸ois-Lavet1,2, Joelle Pineau* 
+
+    
+
+<details>
+
+  <summary> Comments </summary>
+
+  <ol>
+
+    <a> 
+
+The FA maps the state spac S into M > 0 aggregates or clusters from cluster space X. Typically, M < < S. We allow soft clustering, where each state s belongs to cluster x with
+
+probability P(xls), called the clustering probabilities. This allows each state s to
+
+belong to several clusters </a>
+
+  </ol>
+
+</details>
+
+
+
 
 
 
