@@ -15,6 +15,9 @@
 <tr><td colspan="2"><a href="#various">5. Various</a></td></tr>
 <tr><td colspan="2"><a href="#read-later">6. Read later</a></td></tr>
 
+<tr><td colspan="2"><a href="#on-bisimulation-based-representation">On bisimulation-based representation</a></td></tr> 
+
+
 </table>
 
 ## [Cognitive Science](#content)
@@ -490,4 +493,40 @@ Provably efficient RL with rich observations via latent state decoding + Kinemat
 **Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots**
 
 **Notes on State Abstractions, Nan Jiang**
+
+
+## [On bisimulation-based representation](#content)
+1. **DeepMDP: Learning Continuous Latent Space Models for Representation Learning, 2019** [Link](https://arxiv.org/pdf/1906.02736.pdf)
+
+    *Carles Gelada, Saurabh Kumar, Jacob Buckman, Ofir Nachum, Marc G. Bellemare* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> No comments available yet </a>
+  </ol>
+</details> 
+
+2. **Scalable methods for computing state similarity in deterministic Markov Decision Processes, 2019** [Link](https://arxiv.org/abs/1911.09291)
+
+    *Pablo Samuel Castro* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> No comments available yet </a>
+  </ol>
+</details> 
+
+3. **Learning Invariant Representations for Reinforcement Learning without Reconstruction, 2020** [Link](https://arxiv.org/abs/2006.10742)
+
+    *Amy Zhang, Rowan McAllister, Roberto Calandra, Yarin Gal, Sergey Levine* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> No comments available yet </a>
+  </ol>
+</details> 
+
 
