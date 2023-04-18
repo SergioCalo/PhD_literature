@@ -529,4 +529,74 @@ Provably efficient RL with rich observations via latent state decoding + Kinemat
   </ol>
 </details> 
 
+**About collapse:**
+**Papers that mention Bisimulation collapse:**
 
+4. **Accelerating exploration and representation learning with offline pre-training, 2020** [Link](https://www.semanticscholar.org/reader/3eb75f5f35a7963b46ad4c43c68082283c9c0489)
+
+    *Bogdan Mazoure, Jacob Bruce, Doina Precup, Rob Fergus, Ankit Anand* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> They argue:" Why contrastive pre-training?
+     Finally, latent-space prediction losses are known to be prone
+to representation collapse, i.e. when bootstrapped prediction
+targets are being exactly matched by the online network
+and become independent of the state (Gelada et al., 2019).
+Contrastive learning avoids representation collapse due to
+the presence of negative samples which ensure uniformity
+of coverage on the unit sphere (Wang & Isola, 2020)"</a>
+  </ol>
+</details> 
+
+5. **Robust Representation Learning by Clustering with Bisimulation Metrics for Visual Reinforcement Learning with Distractions, 2023** [Link](https://www.semanticscholar.org/reader/5fda3e94df50485dd7caa6940fa7435ec9bfe80c)
+
+    *Qiyuan Liu, Qi Zhou, Rui Yang, Jie Wang* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> "Since prior work has shown that min-
+imizing a quadratic loss is prone to collapse (Schwarzer
+et al. 2020; Gelada et al. 2019), we train the latent dynam-
+ics model by one-step contrastive predictive coding (CPC)
+(Oord, Li, and Vinyals 2018)" </a>
+  </ol>
+</details> 
+
+6. **Data-Efficient Reinforcement Learning with Self-Predictive Representations, 2021** [Link](https://arxiv.org/abs/2007.05929)
+
+    *Max Schwarzer, Ankesh Anand, Rishab Goel, R Devon Hjelm, Aaron Courville, Philip Bachman* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a> SPR bears some resemblance to DeepMDP (Gelada et al., 2019), which trains a transition model with
+an unnormalized L2 loss to predict representations of future states, along with a reward prediction
+objective. However, DeepMDP uses its online encoder to generate prediction targets rather than
+employing a target encoder, and is thus prone to representational collapse (sec. C.5 in Gelada et al.
+(2019)). To mitigate this issue, DeepMDP relies on an additional observation reconstruction objective.
+In contrast, our model is self-supervised, trained entirely in the latent space, and uses a normalized
+loss. Our ablations (sec. 5) demonstrate that using a target encoder has a large impact on our method. </a>
+    <a>Using a quadratic loss causes collapse SPR’s use of a cosine similarity objective (or a normalized
+L2 loss) sets it in contrast to some previous works, such as DeepMDP (Gelada et al., 2019), which
+have learned latent dynamics models by minimizing an un-normalized L2 loss over predictions of
+future latents. To examine the importance of this objective, we test a variant of SPR that minimizes
+un-normalized L2 loss (Quadratic SPR in Table 2), and find that it performs only slightly better
+than random. This is consistent with results from Gelada et al. (2019), who find that DeepMDP’s
+representations are prone to collapse, and use an auxiliary reconstruction objective to prevent this.</a>
+  </ol>
+</details> 
+
+**Papers that attempt to solve Bisimulation collapse:**
+7. **Towards Robust Bisimulation Metric Learning, 2021** [Link](https://www.semanticscholar.org/reader/1534db651327ca7e57bbc9e7ba5d6c4926c5c9bd)
+
+    *Mete Kemertas, Tristan Aumentado-Armstrong* 
+    
+<details>
+  <summary> Comments </summary>
+  <ol>
+    <a>  </a>
+  </ol>
+</details> 
